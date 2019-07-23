@@ -15,5 +15,5 @@ pip install -r requirements.txt
 Run the program with:
 
 ```bash
-python manage.py runserver
+python marketdata.py 
 ```

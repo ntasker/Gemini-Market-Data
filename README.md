@@ -4,7 +4,6 @@ A virtual enviroment [virtualenv](http://docs.python-guide.org/en/latest/dev/vir
 # Create a virtualenv in which we can install the dependencies
 python3 -m venv env
 source env/bin/activate
-pip install -r requirements.txt
 ```
 
 Now we can install our dependencies:
